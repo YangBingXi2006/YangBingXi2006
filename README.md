@@ -3,7 +3,6 @@
 ## About me
 - Undergraduate student at ShanghaiTech University
 - Major in Computer Science
-- Interested in AI, robotics, and machine learning
 
 ## Homepage
 - [My Homepage](https://github.com/YangBingXi2006)
